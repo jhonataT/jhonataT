@@ -7,13 +7,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas.
+- &nbsp; Studying Computer Science at Federal University of Alagoas.
 
-- 🌱 &nbsp; Learning about PHP, JavaScript.
+- &nbsp; Learning about PHP, JavaScript.
 
-- ✍️ &nbsp; Seeking knowledge.
+- &nbsp; Seeking knowledge.
 
 <br/>
 
