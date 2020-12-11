@@ -1,6 +1,3 @@
-<img align='center' src="https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47gy223y3n89ilrmrjdzf6ssnimxy3qt4t12mh6sln&rid=giphy.gif">
-
-
 <h2> I'm Jhonata</h2>
 
 <img align='right' src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/13311e75820101.5c5806640e015.gif" width="230">
