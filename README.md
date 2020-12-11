@@ -9,16 +9,13 @@
 
 - &nbsp; Studying Computer Science at Federal University of Alagoas.
 
-- &nbsp; Learning about PHP, JavaScript.
+- &nbsp; Learning about PHP, JavaScript, NodeJs and more .
 
 - &nbsp; Seeking knowledge.
 
 <br/>
 <br/>
 
-![Jhonata GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonataT&show_icons=true)
-
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataT&show_icons=true)
 
