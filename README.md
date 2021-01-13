@@ -10,7 +10,7 @@
 
 - &nbsp; Studying Computer Science at Federal University of Alagoas.
 
-- &nbsp; Learning about PHP, JavaScript, NodeJs and more .
+- &nbsp; Learning about React, JavaScript, NodeJs and more .
 
 - &nbsp; Seeking knowledge.
 <br/>
