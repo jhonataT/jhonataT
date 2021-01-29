@@ -1,4 +1,4 @@
-<h2> I'm Jhonata</h2>
+<h2>Jhonata Tenório</h2>
 
 <img align='right' src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/13311e75820101.5c5806640e015.gif" width="230">
 
