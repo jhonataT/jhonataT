@@ -1,6 +1,3 @@
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=jhonataT.jhonataT)
-
-
 <p align="left">
 <h1 align ="center">Hello! I'm Jhonata Tenório</h1>
 <img alt="Coding" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47prviqt7bo5zpk43r563mzoijgjmh69h23z1bmfmm&rid=giphy.gif" align="right" height="250" align="right"/>
@@ -10,7 +7,7 @@
 ### 👨🏽‍💻 About me:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 
+ 
 - 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas.
 
 - 🌱 &nbsp; Learning about React, Next.js and TypeScript.
@@ -39,8 +36,7 @@
  <br/><br/><br>
  
  
- 
- <h3 align="center">⭐  Statistics and Languages</h3>
+<h3 align="center">⭐  Statistics and Languages</h3>
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=jhonataT&count_private=true&show_icons=true&theme=dark" alt="jhonataT" width="420"/> 
@@ -52,13 +48,10 @@
 </p>
 
 
-   <h3>     ✌️ Contact Me     </h3>
+<h3>     ✌️ Contact Me     </h3>
    <a href="https://www.linkedin.com/in/jhonata-tenorio/"><img src="https://img.shields.io/badge/-Jhonata%20Tenório-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
    <a href="mailto:jhonata.tenorio2526@gmail.com"><img src="https://img.shields.io/badge/-jhonata.tenorio2526@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a><br/>
    <a href="https://instagram.com/jhonata06"><img src="https://img.shields.io/badge/-@jhonata06-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-   
-
-
-
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=jhonataT.jhonataT)
