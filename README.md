@@ -1,6 +1,6 @@
 <p align="left">
 <h1 align ="center">Hi!!!</h1>
-<img alt="Coding" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47prviqt7bo5zpk43r563mzoijgjmh69h23z1bmfmm&rid=giphy.gif" align="right" height="250" align="right"/>
+<img alt="Coding" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" align="right" height="250" align="right"/>
 <h3> Front-end Developer & Computer Science Student</h3>
 
 
