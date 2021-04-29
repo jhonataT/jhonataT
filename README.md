@@ -9,7 +9,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas.
 
-- 🌱 &nbsp; Learning about PHP, JavaScipt.
+- 🌱 &nbsp; Learning about React, Next.js and TypeScript.
 
 - ✍️ &nbsp; Seeking knowledge.
 
