@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </p>
 
- <br/><br/><br>
  
  
 <h3 align="center">⭐  Statistics and Languages</h3>
@@ -55,3 +54,6 @@
 </p>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=jhonataT.jhonataT)
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
