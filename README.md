@@ -35,13 +35,9 @@
 
  
  
-<h3 align="center">⭐  Statistics and Languages</h3>
+<h3 align="left">⭐  Statistics</h3>
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=jhonataT&count_private=true&show_icons=true&theme=dark" alt="jhonataT" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataT&&langs_count=8&layout=compact&theme=dark" alt="jhonataT" height="165" />
-</p>
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonataT&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
