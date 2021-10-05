@@ -2,8 +2,7 @@
 <h1 align ="left">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img alt="Coding" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" align="right" height="250" align="right"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&vCenter=true&lines=Jhonata+Ten%C3%B3rio+;Full+Stack+Developer)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&vCenter=true&lines=Jhonata+Ten%C3%B3rio+;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ### 👨🏽‍💻 About me:
 
