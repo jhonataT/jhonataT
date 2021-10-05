@@ -51,10 +51,7 @@
  
 <h3 align="left">⭐  Statistics</h3>
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonataT&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
-  <br/>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhonataT&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
 
 
 <h3>     ✌️ Contact Me     </h3>
