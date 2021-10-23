@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   
-- 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas.
+- 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas. 
 
 - 🌱 &nbsp; Learning about React, Next.js and TypeScript.
 
