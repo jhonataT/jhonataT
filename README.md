@@ -6,7 +6,7 @@
  
 ### 👨🏽‍💻 About me:
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.  
   
 - 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas. 
 
