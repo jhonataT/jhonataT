@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Learning about React, Next.js and TypeScript.
 
 - ✍️ &nbsp; Seeking knowledge. 
- 
+
 <p/>
   
 
