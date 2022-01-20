@@ -39,7 +39,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25"/>
 </p>
-
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
