@@ -51,7 +51,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhonataT&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
 
 
-<h3>     ✌️ Contact Me     </h3> 
+<h3>     ✌️ Contact Me     </h3>
    <a href="https://www.linkedin.com/in/jhonata-tenorio/"><img src="https://img.shields.io/badge/-Jhonata%20Tenório-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
    <a href="mailto:jhonata.tenorio2526@gmail.com"><img src="https://img.shields.io/badge/-jhonata.tenorio2526@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
    <a href="https://instagram.com/jhonata06"><img src="https://img.shields.io/badge/-@jhonata06-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
