@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </p>
 
-
+ 
 <h3 align="left">⭐  Statistics</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhonataT&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
