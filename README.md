@@ -60,5 +60,3 @@
 </p>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=jhonataT.jhonataT)
-
-
