@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/51134324/172072130-f0380641-0455-4828-9dc6-d9022357e0af.svg" width="300px" align="right">
+<img src="https://user-images.githubusercontent.com/51134324/177012488-9d5b6ae4-a57f-42ba-90d7-34c64a78e500.svg" width="300px" align="right">
 <p align="left">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=30&duration=3000&color=FFFFFF&background=FFFFFF00&multiline=true&height=80&lines=Jhonata+Ten%C3%B3rio%5Cn;Full+Stack+Developer)](https://git.io/typing-svg)
- 
+
 ### 👨🏽‍💻 About me:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
