@@ -3,7 +3,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=30&duration=3000&color=FFFFFF&background=FFFFFF00&multiline=true&height=80&lines=Jhonata+Ten%C3%B3rio%5Cn;Full+Stack+Developer)](https://git.io/typing-svg)
 
-### 👨🏽‍💻 About me:
+### 👨🏽‍💻 About me: 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
