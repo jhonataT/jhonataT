@@ -1,72 +1,42 @@
-<img src="https://user-images.githubusercontent.com/51134324/177012488-9d5b6ae4-a57f-42ba-90d7-34c64a78e500.svg" width="300px" align="right">
-<p align="left">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=30&duration=3000&color=FFFFFF&background=FFFFFF00&multiline=true&height=80&lines=Jhonata+Ten%C3%B3rio%5Cn;Full+Stack+Developer)](https://git.io/typing-svg)
+<img align="right" height="408" src="https://github.com/jhonataT/jhonataT/assets/51134324/b883e41a-4401-4536-a841-f51c0f44e562"  />
 
-### 👨🏽‍💻 About me: 
+###
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+<h1 align="left">Jhonata Tenório<br>Full Stack Developer</h1>
 
-- 🎓 &nbsp; Studying Computer Science at Federal University of Alagoas.
+###
 
-- 🌱 &nbsp; Learning about React, Next.js and TypeScript.
+<p align="left">PT-BR<br><br>Olá! Sou um desenvolvedor Full Stack Pleno apaixonado por criar soluções inovadoras e escaláveis. Com 23 anos de idade e 3 anos de experiência, estou sempre em busca de novos desafios para aprimorar minhas habilidades e aprender tecnologias emergentes.<br><br>Minha principal expertise está em stacks como Typescript, Next, React, Node, Express, Nest, entre outras. Tenho amplo conhecimento em desenvolvimento front-end e back-end, permitindo-me construir aplicações completas de ponta a ponta.<br><br>EN-US<br><br>Hello! I am a passionate Full Stack Developer who loves creating innovative and scalable solutions. At 23 years old with 3 years of experience, I am always seeking new challenges to enhance my skills and learn emerging technologies.<br><br>My main expertise lies in stacks such as Typescript, Next, React, Node, Express, Nest, among others. I possess extensive knowledge in both front-end and back-end development, enabling me to build end-to-end applications.</p>
 
-- ✍️ &nbsp; Seeking knowledge.
+###
 
-<p/>
+<br clear="both">
 
-## 📚  Stack I Work With
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jhonataT/count.svg?"  />
 </div>
 
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
-
-</td></tr></table>  
-
-   <a href="https://www.linkedin.com/in/jhonata-tenorio/"><img src="https://img.shields.io/badge/-Jhonata%20Tenório-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-   <a href="mailto:jhonata.tenorio2526@gmail.com"><img src="https://img.shields.io/badge/-jhonata.tenorio2526@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-   <a href="https://instagram.com/jhonata06"><img src="https://img.shields.io/badge/-@jhonata06-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=jhonataT.jhonataT)
+###
