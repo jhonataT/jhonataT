@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
 </div>
 
+
 ###
 
 <br clear="both">
